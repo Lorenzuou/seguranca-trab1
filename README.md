@@ -1,5 +1,13 @@
 # Python DApp Template
 
-This is a template for Python Cartesi DApps. It uses python3 to execute the backend application.
-The application entrypoint is the `dapp.py` file.
+
 # seguranca-trab1
+
+Rode cartesi build, cartesi run
+
+
+
+
+
+
+obs: arquivo data.json deve ter chmod 777 para funcionar corretamente porque se não o container não consegue modificar o arquivo
